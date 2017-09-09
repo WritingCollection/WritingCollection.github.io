@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://writer.arlmy.me/posts/hello-world.html</loc>
+    <loc>http://writer.arlmy.me/posts/To-do.html</loc>
     
-    <lastmod>2017-09-01T08:46:45.000Z</lastmod>
+    <lastmod>2017-09-09T02:49:40.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://writer.arlmy.me/posts/JamesWoods_WhyWeNeedFiction.html</loc>
+    
+    <lastmod>2017-09-04T09:23:09.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://writer.arlmy.me/posts/index.html</loc>
+    
+    <lastmod>2017-09-04T09:19:45.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://writer.arlmy.me/posts/Original_JamesWoods_WhyWeNeedFiction.html</loc>
+    
+    <lastmod>2017-09-04T09:14:19.000Z</lastmod>
     
   </url>
   
